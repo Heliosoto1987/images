@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="376px" height="518px" viewBox="0 0 376 518" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>9CB7CDC0-14D5-4760-97AE-8817DE02D3C8</title>
+    <defs>
+        <linearGradient x1="8.79453911%" y1="54.7086893%" x2="44.669556%" y2="50.60956%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.08" offset="20.07%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Illustration" transform="translate(188.000000, 260.000000) rotate(-90.000000) translate(-188.000000, -260.000000) translate(-72.000000, 72.000000)">
+            <g id="Structure-&amp;-Shadow">
+                <path d="M520,352.864836 C520,365.58987 511.512793,376 501.137026,376 L20.8617167,376 C10.488464,376 2,365.58987 2,352.864836 L2,23.1336213 C2,10.4132141 10.488464,0 20.8617167,0 L501.137026,0 C511.512793,0 520,10.4132141 520,23.1367058 L520,352.867921 L520,352.864836 Z" id="Base-Struture" fill="#90BA9E" fill-rule="nonzero"></path>
+                <path d="M520,113.997375 L520,22.9297536 C520,10.3186269 511.492857,-0.002625 501.092717,-0.002625 L347,-0.002625 C360.436245,32.8971296 373.786158,72.2247373 385.895918,113.994318 L520,113.994318 L520,113.997375 Z" id="Shadow-Struture" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                <rect id="Screen" fill="#161616" x="30" y="40" width="462" height="296"></rect>
+                <ellipse id="Button" fill-opacity="0.5" fill="#000000" fill-rule="nonzero" cx="15.4444444" cy="189.002625" rx="2.88888889" ry="3.49081365"></ellipse>
+            </g>
+            <g id="Buttons" transform="translate(47.000000, 188.000000) rotate(90.000000) translate(-47.000000, -188.000000) translate(-79.000000, 181.000000)">
+                <g id="Button-Menu" transform="translate(247.666225, 0.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <rect id="Rectangle" x="-3.95845511e-13" y="-1.70390301e-14" width="3.19305018" height="3.30673697"></rect>
+                    <rect id="Rectangle" x="-3.95845511e-13" y="5.10535758" width="3.19305018" height="3.30830303"></rect>
+                    <rect id="Rectangle" x="-3.95845511e-13" y="10.2185455" width="3.19305018" height="3.30986909"></rect>
+                </g>
+                <polygon id="Button-Home" stroke="#FFFFFF" stroke-width="1.17454545" points="187.666225 11.6436606 167.270588 11.6436606 167.270588 5.1601697 177.468406 1.87927273 187.666225 5.1601697"></polygon>
+                <g id="Button-Back" transform="translate(84.117647, 1.064921)" stroke="#FFFFFF" stroke-width="1.17454545">
+                    <path d="M9.73702788,11.0955394 L19.4445954,11.0955394 C21.4161736,11.0955394 23.0138318,9.44099636 23.0138318,7.39572121 C23.0138318,5.35279515 21.4161736,3.69590303 19.4445954,3.69590303 L0.17071903,3.69590303" id="Path"></path>
+                    <polyline id="Path" points="4.53236364 0 0 3.52363636 4.53236364 7.83030303"></polyline>
+                </g>
+                <g id="Button-Size-screen" transform="translate(0.000000, 1.064921)" stroke="#FFFFFF" stroke-width="1.17454545">
+                    <rect id="Rectangle" x="1.42236014e-13" y="1.52690909" width="22.2720349" height="9.86931394"></rect>
+                    <polyline id="Path" points="3.80718545 -2.22550597e-14 23.6513842 -2.22550597e-14 23.6513842 9.07532121"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
